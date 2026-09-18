@@ -23,3 +23,7 @@ multi-panel game architectures out of the box.
 ## Status
 Actively in development — ongoing improvements to architecture,
 features, and documentation.
+
+## Code Previews
+<img width="311" height="141" alt="image" src="https://github.com/user-attachments/assets/7f76bef0-4185-4e34-af8b-f2b12842889e" />
+<img width="641" height="84" alt="image" src="https://github.com/user-attachments/assets/c1c50f10-5ae7-41e7-b468-5f74a4ec72ad" />
