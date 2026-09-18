@@ -21,8 +21,7 @@ multi-panel game architectures out of the box.
 - Multi-window support with inter-window communication
 
 ## Status
-Actively in development — ongoing improvements to architecture,
-features, and documentation.
+⚠️ Currently under extensive development — screenshots and examples will be added and are prone to change
 
 ## Code Previews
 <img width="311" height="141" alt="image" src="https://github.com/user-attachments/assets/7f76bef0-4185-4e34-af8b-f2b12842889e" />
